@@ -5,7 +5,7 @@
     "version": "17.0.1.0.0",
     "author": "Concept Solutions",
     "website": "",
-    "license": "LGPL-3",
+    "license": "OPL-1",
     "category": "Accounting/Reporting",
     "depends": ["account"],
     "data": [
